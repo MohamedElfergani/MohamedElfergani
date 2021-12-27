@@ -1,6 +1,11 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElfergani)](https://github.com/anuraghazra/github-readme-stats)
+## It is nice seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+My name is Mohamed Elfergani, you can call me Hamadi! I am currently pursuing my bachelor's degree majoring in computer science at Bellevue College. Find out more about me & feel free to connect with me here:
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/mohamed-elfergani/)
+
+## ⚡ Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
