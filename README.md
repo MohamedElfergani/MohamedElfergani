@@ -3,7 +3,7 @@
 My name is Mohamed Elfergani, you can call me Hamadi! I am currently pursuing my bachelor's degree majoring in computer science at Bellevue College. Find out more about me & feel free to connect with me here:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/mohamed-elfergani/)
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedElfergani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/mohamed-elfergani/)
 
 ## ⚡ Skills
 
