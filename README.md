@@ -5,7 +5,6 @@ My name is Mohamed Elfergani, you can call me Hamadi! I am currently pursuing my
 
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedElfergani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/mohamed-elfergani/)
 [![Yahoo Badge](https://img.shields.io/badge/-mohamedfergani75@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:mohamedfergani75@yahoo.com)](mailto:mohamedfergani75@yahoo.com)
-[![Discord Badge](https://img.shields.io/badge/-Speedy#1661-c14438?style=flat-square&logo=Discord&logoColor=white&link=mailto:Speedy#1661)](Speedy#1661)
 
 
 ## ⚡ Skills
