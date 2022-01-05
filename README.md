@@ -11,7 +11,7 @@ My name is Mohamed Elfergani, you can call me Hamadi! I am currently pursuing my
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
